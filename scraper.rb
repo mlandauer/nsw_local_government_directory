@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'mechanize'
 
 def extract_council(start)
